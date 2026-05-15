@@ -1,4 +1,7 @@
-# Python
-Beginning with the learning path to become an AI Product Manager
-<br>
-## Abhishek Goyal - Business Analyst
+# 💻 Python
+
+🚀 Beginning with the learning path to become an AI Product Manager.
+
+## 👨‍💼 Abhishek Goyal — Business Analyst
+
+**Amplework Software Pvt. Ltd.**
