@@ -1,2 +1,4 @@
 # Python
-Begining with the learning path 
+Beginning with the learning path to become an AI Product Manager
+Abhishek Goyal
+Business Analyst
